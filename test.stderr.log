@@ -1,0 +1,10 @@
+[LuaTeXWrapper] [LuaTeX] stderr+stdout redirected to /Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Data/Application/96F7AAF5-BE5D-4FEF-A629-5B2105F72948/Documents/TeXAnt/GitProjects/LaTexTest/test.stderr.log
+[BYTECODE] loadfile wrapper installed: .luc bytecode preferred over .lua source
+[FONT_CACHE] luaotfload-preload.lua loaded: in-memory OTF font cache active
+[KPSE_INIT] SKIP: kpathsea already initialized (program_name_set=1)
+[LuaTeXWrapper] [LuaTeX] Phase 2: Calling main_body()...
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  system commands enabled.
+[FMT_CACHE] HIT: serving /Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Bundle/Application/6142EAA3-23CC-4BB7-8E23-5EE6146957E6/TexAnt.app/texmf-dist/web2c/lualatex.fmt from memory (14888543 bytes)
+[LuaTeXWrapper] [LuaTeX] main_body() returned (unexpected)
+[LuaTeXWrapper] [LuaTeX] TeX history=0, exitCode=0
+[LuaTeXWrapper] [LuaTeX] Cleanup complete.

@@ -1,0 +1,11 @@
+1772040564019.018 | pid=41115 | compile_start | input=/Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Data/Application/96F7AAF5-BE5D-4FEF-A629-5B2105F72948/Documents/TeXAnt/GitProjects/LaTexTest/test.tex output=/Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Data/Application/96F7AAF5-BE5D-4FEF-A629-5B2105F72948/Documents/TeXAnt/GitProjects/LaTexTest engine=luahbtex useMemory=0 synctex=0
+1772040564019.369 | pid=41115 | before_engine_init | cwd=/Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Data/Application/96F7AAF5-BE5D-4FEF-A629-5B2105F72948/Documents/TeXAnt/GitProjects/LaTexTest
+1772040564036.775 | pid=41115 | before_lua_initialize | argc=10
+1772040564042.230 | pid=41115 | after_lua_initialize | Luas=0x1372d6408
+1772040564042.282 | pid=41115 | before_main_body | history=0
+1772040564503.141 | pid=41115 | after_main_body_returned | history=0
+1772040564503.210 | pid=41115 | before_cleanup | exitCode=0
+1772040564503.274 | pid=41115 | after_cleanup | history=0
+1772040564503.345 | pid=41115 | before_output_validation | exitCode=0
+1772040564503.463 | pid=41115 | pdf_file_ok | path=/Users/reczen/Library/Developer/CoreSimulator/Devices/5B641BF6-3AA0-4B55-B487-88E69E42C9C5/data/Containers/Data/Application/96F7AAF5-BE5D-4FEF-A629-5B2105F72948/Documents/TeXAnt/GitProjects/LaTexTest/test.pdf
+1772040564503.519 | pid=41115 | final_result | success=1 exitCode=0
