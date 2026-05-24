@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "generated": "2026-05-23T23:55:23Z",
+  "archives": [
+    {
+      "id": "minimal-bundle",
+      "fileName": "minimal-bundle.zip",
+      "compressedSize": 125833031,
+      "uncompressedSize": 238071808,
+      "sha256": "6bc9e01068615af5182c165fde9435d3a403ccaefa67476445600e2a178aca2e"
+    },
+    {
+      "id": "balanced-bundle",
+      "fileName": "balanced-bundle.zip",
+      "compressedSize": 132541285,
+      "uncompressedSize": 283447296,
+      "sha256": "cd8bfb8b1f10ef368af89735f94ee8de8b6a5e491649e2545d71b821e6e6fbd9"
+    },
+    {
+      "id": "standart-bundle",
+      "fileName": "standart-bundle.zip",
+      "compressedSize": 182827592,
+      "uncompressedSize": 326516736,
+      "sha256": "ee6d3d08ba04f2dc032c6b618134e3a229ab1f810ab2db71de2bc2a5d06ca8ec"
+    },
+    {
+      "id": "extended-bundle",
+      "fileName": "extended-bundle.zip",
+      "compressedSize": 153817654,
+      "uncompressedSize": 320917504,
+      "sha256": "c2e64074a0df669bd2edc66084e5ac04f062ba18757b4bcfc3002ffe2891d47a"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "generated": "2026-05-23T22:33:00Z",
+  "texliveVersion": "2026",
+  "baseUrl": "",
+  "collections": [
+    {
+      "id": "collection-basic",
+      "shortdesc": "Essential programs and files",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 22999040,
+      "packageCount": 41,
+      "sha256": "",
+      "fileName": "",
+      "depends": []
+    },
+    {
+      "id": "collection-bibtexextra",
+      "shortdesc": "BibTeX additional styles",
+      "category": "recommended",
+      "compressedSize": 0,
+      "uncompressedSize": 52416512,
+      "packageCount": 171,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-fontsrecommended",
+      "shortdesc": "Recommended fonts",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 167632896,
+      "packageCount": 33,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-fontutils",
+      "shortdesc": "Graphics and font utilities",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 8323072,
+      "packageCount": 18,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-formatsextra",
+      "shortdesc": "Additional formats",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 10563584,
+      "packageCount": 17,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic",
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-games",
+      "shortdesc": "Games typesetting",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 24530944,
+      "packageCount": 64,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-humanities",
+      "shortdesc": "Humanities packages",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 3997696,
+      "packageCount": 60,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-langarabic",
+      "shortdesc": "Arabic",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 42737664,
+      "packageCount": 36,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langchinese",
+      "shortdesc": "Chinese",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 225931264,
+      "packageCount": 35,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-langcjk"
+      ]
+    },
+    {
+      "id": "collection-langcjk",
+      "shortdesc": "Chinese/Japanese/Korean (base)",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 25640960,
+      "packageCount": 16,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langcyrillic",
+      "shortdesc": "Cyrillic",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 17735680,
+      "packageCount": 48,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic",
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-langczechslovak",
+      "shortdesc": "Czech/Slovak",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 5156864,
+      "packageCount": 14,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic",
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-langenglish",
+      "shortdesc": "US and UK English",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 17772544,
+      "packageCount": 72,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langeuropean",
+      "shortdesc": "Other European languages",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 8675328,
+      "packageCount": 70,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langfrench",
+      "shortdesc": "French",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 17993728,
+      "packageCount": 49,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langgerman",
+      "shortdesc": "German",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 13885440,
+      "packageCount": 47,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langgreek",
+      "shortdesc": "Greek",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 90640384,
+      "packageCount": 25,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langitalian",
+      "shortdesc": "Italian",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 344064,
+      "packageCount": 20,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langjapanese",
+      "shortdesc": "Japanese",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 299761664,
+      "packageCount": 68,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-langcjk"
+      ]
+    },
+    {
+      "id": "collection-langkorean",
+      "shortdesc": "Korean",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 139927552,
+      "packageCount": 12,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-langcjk"
+      ]
+    },
+    {
+      "id": "collection-langother",
+      "shortdesc": "Other languages",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 71356416,
+      "packageCount": 64,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langpolish",
+      "shortdesc": "Polish",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 6266880,
+      "packageCount": 17,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic",
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-langportuguese",
+      "shortdesc": "Portuguese",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 143360,
+      "packageCount": 13,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-langspanish",
+      "shortdesc": "Spanish",
+      "category": "language",
+      "compressedSize": 0,
+      "uncompressedSize": 3706880,
+      "packageCount": 14,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-latex",
+      "shortdesc": "LaTeX fundamental packages",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 18919424,
+      "packageCount": 63,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-latexextra",
+      "shortdesc": "LaTeX additional packages",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 130240512,
+      "packageCount": 1672,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latexrecommended",
+        "collection-pictures"
+      ]
+    },
+    {
+      "id": "collection-latexrecommended",
+      "shortdesc": "LaTeX recommended packages",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 30339072,
+      "packageCount": 71,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-luatex",
+      "shortdesc": "LuaTeX packages",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 27148288,
+      "packageCount": 123,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-mathscience",
+      "shortdesc": "Mathematics, natural sciences, computer science packages",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 23838720,
+      "packageCount": 313,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-fontsrecommended",
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-music",
+      "shortdesc": "Music packages",
+      "category": "optional",
+      "compressedSize": 0,
+      "uncompressedSize": 74817536,
+      "packageCount": 38,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    },
+    {
+      "id": "collection-pictures",
+      "shortdesc": "Graphics, pictures, diagrams",
+      "category": "recommended",
+      "compressedSize": 0,
+      "uncompressedSize": 111816704,
+      "packageCount": 290,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-plaingeneric",
+      "shortdesc": "Plain (La)TeX packages",
+      "category": "recommended",
+      "compressedSize": 0,
+      "uncompressedSize": 61440000,
+      "packageCount": 125,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-basic"
+      ]
+    },
+    {
+      "id": "collection-publishers",
+      "shortdesc": "Publisher styles, theses, etc.",
+      "category": "required",
+      "compressedSize": 0,
+      "uncompressedSize": 107208704,
+      "packageCount": 335,
+      "sha256": "",
+      "fileName": "",
+      "depends": [
+        "collection-latex"
+      ]
+    }
+  ]
+}
