@@ -1,3 +1,22 @@
+## 2026-05-29 16:41:43 - OpenAI Codex (GPT-5 Codex - Codex Desktop)
+### 6. Minimal, recommended ve standart bundle manifest değerleri güncellendi
+### Değiştirildi
+- `zip-manifest.json` dosyasında `minimal-bundle.zip` için `uncompressedSize` değeri `274890248` olarak güncellendi.
+- `zip-manifest.json` dosyasında `recommended-bundle.zip` için `uncompressedSize` değeri `275075172` olarak güncellendi.
+- `zip-manifest.json` dosyasında `standart-bundle.zip` için `uncompressedSize` değeri `341762221` olarak güncellendi.
+- `zip-manifest.json` içindeki `generated` alanı güncellendi.
+### Diğer
+- Üç bundle için `compressedSize` ve `sha256` değerleri doğrulandı.
+
+## 2026-05-29 14:27:46 - GitHub Copilot (GPT-5.3-Codex - VS Code)
+### 5. Bundle paket-font-map karsilastirma raporu guncellendi
+### Degistirildi
+- `4-bundle-latex-package-font-karsilastirma.md` dosyasi yeni bundle setine gore (`minimal`, `recommended`, `standart`, `extended`) bastan hesaplanarak guncellendi.
+- Paket ve font istatistikleri klasorlerin guncel iceriklerine gore yenilendi.
+- Rapora `fonts/map` altindaki `.map` dosyalari icin ozet, kesisim, Jaccard ve benzersiz dosya analizleri eklendi.
+### Diger
+- Rapor icerigindeki onceki `balanced-bundle` referanslari kaldirilarak `recommended-bundle` ile degistirildi.
+
 ## 2026-05-26 14:00:00 - Zeki Ozen (Claude Sonnet 4.6 - VS Code)
 ### 2. pix2text-mfr-ocr-models.zip GitHub reposuna push edildi
 ### Eklendi

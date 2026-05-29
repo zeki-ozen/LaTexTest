@@ -1,41 +1,27 @@
 {
   "version": 1,
-  "generated": "2026-05-28T22:44:44Z",
+  "generated": "2026-05-29T13:41:43Z",
   "archives": [
-    {
-      "id": "balanced-bundle",
-      "fileName": "balanced-bundle.zip",
-      "compressedSize": 132541285,
-      "uncompressedSize": 283447296,
-      "sha256": "cd8bfb8b1f10ef368af89735f94ee8de8b6a5e491649e2545d71b821e6e6fbd9"
-    },
-    {
-      "id": "extended-bundle",
-      "fileName": "extended-bundle.zip",
-      "compressedSize": 153817654,
-      "uncompressedSize": 320917504,
-      "sha256": "c2e64074a0df669bd2edc66084e5ac04f062ba18757b4bcfc3002ffe2891d47a"
-    },
     {
       "id": "minimal-bundle",
       "fileName": "minimal-bundle.zip",
-      "compressedSize": 125833031,
-      "uncompressedSize": 238071808,
-      "sha256": "6bc9e01068615af5182c165fde9435d3a403ccaefa67476445600e2a178aca2e"
+      "compressedSize": 147696065,
+      "uncompressedSize": 274890248,
+      "sha256": "d6f2135ddc2af1ad2e8957f14049089c7ab257048ee70ebd9c695f4285d8a999"
     },
     {
       "id": "recommended-bundle",
       "fileName": "recommended-bundle.zip",
-      "compressedSize": 358052731,
-      "uncompressedSize": 618151620,
-      "sha256": "d4460b3adf7af3ed4f6e508e75a9cd64c03c2920ca135cc4cacdc2f3de4b8608"
+      "compressedSize": 142144380,
+      "uncompressedSize": 275075172,
+      "sha256": "a8d7db864974ce0b3853d9912408829443b693a467c1f75147abf34094a6b1e9"
     },
     {
       "id": "standart-bundle",
       "fileName": "standart-bundle.zip",
-      "compressedSize": 182827592,
-      "uncompressedSize": 326516736,
-      "sha256": "ee6d3d08ba04f2dc032c6b618134e3a229ab1f810ab2db71de2bc2a5d06ca8ec"
+      "compressedSize": 197103388,
+      "uncompressedSize": 341762221,
+      "sha256": "15293a2900ebb9f90048db049227c282e36f6d8b561bf5196e887f6009142fa6"
     }
   ]
 }
