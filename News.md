@@ -1,3 +1,8 @@
+## 2026-05-31 00:34:18 - OpenAI Codex (GPT-5 Codex - Codex Desktop)
+### 7. pix2text-mfr-ocr-models-full.zip GitHub reposuna push edildi
+### Eklendi
+- `pix2text-mfr-ocr-models-full.zip` (105 MB) dosyası Git LFS üzerinden `https://github.com/zeki-ozen/LaTexTest` reposunun `master` dalına eklendi.
+
 ## 2026-05-29 16:41:43 - OpenAI Codex (GPT-5 Codex - Codex Desktop)
 ### 6. Minimal, recommended ve standart bundle manifest değerleri güncellendi
 ### Değiştirildi
