@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-29T13:41:43Z",
+  "generated": "2026-06-14T04:41:06Z",
   "archives": [
     {
       "id": "minimal-bundle",
@@ -12,9 +12,9 @@
     {
       "id": "recommended-bundle",
       "fileName": "recommended-bundle.zip",
-      "compressedSize": 142144380,
-      "uncompressedSize": 275075172,
-      "sha256": "a8d7db864974ce0b3853d9912408829443b693a467c1f75147abf34094a6b1e9"
+      "compressedSize": 142156751,
+      "uncompressedSize": 304783360,
+      "sha256": "758ed1ad0fa676a10c51d538bcf02504640ab35a20dcd107013be197aecf05ec"
     },
     {
       "id": "standart-bundle",
